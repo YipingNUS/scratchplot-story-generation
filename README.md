@@ -1,8 +1,14 @@
-# Generating Movie Plot with Dino
+# ScratchPlot: Story Generation by Prompting Pre-Trained Language Models
+
+This repository contains the code for **Plot Writing From Pre-Trained Language Models**. The paper introduces a method to first prompts a PLM to compose a content plan. Then, we generate the story’s body and ending conditioned on the
+content plan. Furthermore, we take a generate-and-rank approach by using additional PLMs to rank the generated (story, ending) pairs.
+
+This repo relies heavily on [D<small>INO</small>](https://github.com/timoschick/dino). Since we made some minor changes, 
+we include the complete code for ease of use. 
 
 ## Usage
 
-### 1. Generating metadata
+### 1. Generating plot elements
 
 Including location, cast, genre and theme.
 
@@ -10,11 +16,27 @@ Including location, cast, genre and theme.
 sh run_plot_static_gpu.sh
 ```
 
+The content plan elements are generated once and stored. When generating the stories, the system samples from the offline-generated plot elements.
+
 ### 2. Generate the plot scene by scene
 
 ```bash
-sh run_plot_dynamic_gpu.sh
+sh run_plot_dynamic_gpu_single.sh
 ```
+
+### 3. Generate a batch of stories
+
+```bash
+sh run_plot_dynamic_gpu_batch.sh
+```
+
+### Note
+
+- Some hyper-parameters are hard-coded in the bash scripts. You can modify them when needed. The most common ones are:
+  - If you don't have a GPU, add  `--no_cuda` to all the commands that calls `dino.py`.
+  - You can modify the number of entries. If your RAM is small (< 8GB), you might receive an OOM error. In such case, reduce the number of entries (at the cost of less diverse stories).
+  - You can also modify the length of each generation.
+  - While this paper introduces end-to-end content plan and story generation, you can also check the format of the content plan and then either write the content plan manually or curate the system generation.
 
 ## Setup
 
@@ -31,27 +53,29 @@ nltk.download('stopwords')
 
 ```
 
-### WIP
+## 📕 Citation
 
-Generating full scenes from the plot summary. The condition seems weak. 
-Temporarily remove it from `run_plot_dynamic_gpu.sh`.
+If you make use of the code in this repository, please cite the following paper:
+````
+@inproceedings{jin-le-2022-plot,
+    title = "Plot Writing From Pre-Trained Language Models",
+    author = "Jin, Yiping  and Kadam, Vishakha and Wanvarie, Dittaya",
+    booktitle = "Proceedings of the 15th International Natural Language Generation conference",
+    year = "2022",
+    address = "Maine, USA",
+    publisher = "Association for Computational Linguistics"
+}
+````
 
-```
-# generate the full story
-python3 dino.py \
- --output_dir movie_exp/scenes \
- --task_file movie_exp/scenes/plot-final.json \
- --input_file movie_exp/scenes/plot-summary-dataset.jsonl \
- --input_file_type jsonl \
- --num_entries_per_input_and_label 5 \
- --min_num_tokens 5 \
- --max_output_length 200 \
- --top_k 30 \
- --keep_outputs_without_eos \
- --allow_newlines_in_outputs \
- --ignore_eos
+If you use D<small>INO</small> for other tasks, please also cite the following paper:
 
-python3 scripts/movie_plot/post_process.py --task final --output_file story.jsonl
-
-python3 scripts/movie_plot/print_story.py
-```
+````
+@article{schick2020generating,
+  title={Generating Datasets with Pretrained Language Models},
+  author={Timo Schick and Hinrich Schütze},
+  journal={Computing Research Repository},
+  volume={arXiv:2104.07540},
+  url={https://arxiv.org/abs/2104.07540},
+  year={2021}
+}
+````
