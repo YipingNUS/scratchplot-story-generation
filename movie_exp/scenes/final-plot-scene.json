@@ -1,0 +1,9 @@
+{
+  "task_name": "plot-scene",
+  "labels": {
+    "next-scene": {
+      "instruction": "Task: Write what happens to Ivan and Nita in the end in a cthulhu story. with the main theme \"The End of All Things\"\nStory: <X1>\nEnding: \"",
+      "counter_labels": []
+    }
+  }
+}

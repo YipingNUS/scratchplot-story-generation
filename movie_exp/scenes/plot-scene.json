@@ -1,0 +1,9 @@
+{
+  "task_name": "plot-scene",
+  "labels": {
+    "next-scene": {
+      "instruction": "Task: Write a plot summary of a cthulhu story featuring Ivan and Nita in Kathmandu with the main theme \"The End of All Things\"\nPlot summary: \"",
+      "counter_labels": []
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "plot-baseline",
+  "labels": {
+    "plot": {
+      "instruction": "Task: Write a plot summary.\nPlot summary: \"",
+      "counter_labels": []
+    }
+  }
+}

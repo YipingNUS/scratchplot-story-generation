@@ -1,0 +1,494 @@
+text_a,text_b,label,score
+Fayette County,James Dean,actor,acceptable
+Londraal,Ikthyr,actor,unacceptable
+Yukon,Michael Jackson,actor,acceptable
+Fayette County,John Smith,actor,acceptable
+San Francisco,John Jones,actor,acceptable
+Cotton County,Glad-Boy,actor,unacceptable
+South Sudan,John H. Roberts,actor,acceptable
+King,Tinasha,actress,acceptable
+Cotton County,Cody,actress,acceptable
+Seattle,Sally,actress,acceptable
+Mendouville,Jenny,actress,acceptable
+Ireland,Tom Fagan,actor,acceptable
+Denmark,Peter Hagen,actor,acceptable
+Washoe County,Harrison Jones,actor,acceptable
+Palo Alto,Herman Smith,actor,acceptable
+Detroit,Cecilia,actress,acceptable
+San Francisco,Ruth,actress,acceptable
+Fayette County,William Treadwell,actor,acceptable
+Boulder,Jack,actor,acceptable
+King County,John Smith,actor,acceptable
+North,Jenny,actress,acceptable
+Bexar County,Jasmine,actress,acceptable
+Mendouville,Mary,actress,acceptable
+Mendouville,Karen Mae Lee,actress,acceptable
+Spain,Sarajane,actress,acceptable
+King,Lila,actress,acceptable
+San Francisco,John Smith,actor,acceptable
+Bristol,Paul,actor,acceptable
+Gotham,Jack Ryan,actor,acceptable
+Mendouville,James Michael McNeil,actor,acceptable
+King,Anna,actress,acceptable
+Fulford County,John B. Smith,actor,acceptable
+Bran,Tyrion,actor,acceptable
+United Arab Emirates,Tania,actress,acceptable
+Kerala,Madhu,actress,acceptable
+Boulder,Garnet Johnson,actor,acceptable
+Belfast,Tiffany,actress,acceptable
+Gotham,Batgirl,actress,acceptable
+Yukon,Cheryl,actress,acceptable
+Palo Alto,Alice,actress,acceptable
+Dalmani,Luna,actress,acceptable
+Gotham,Linda Green,actress,acceptable
+Bristol,John P. Jones,actor,acceptable
+Cotton County,Jane,actress,acceptable
+Londraal,Nessie,actress,acceptable
+Germany,Klara,actress,acceptable
+Bristol,Dawn,actress,acceptable
+Cotton County,Ralph,actor,acceptable
+Yukon,Theodore,actor,acceptable
+New York,Pamela,actress,acceptable
+Kerala,Mingna,actress,acceptable
+Alameda County,Sue,actress,acceptable
+Afghanistan,Drew,actor,acceptable
+Boulder,Tiffany,actress,acceptable
+United Arab Emirates,Binyam Hussein,actress,acceptable
+Detroit,Joe,actor,acceptable
+Northwest Territories,Tanya,actress,acceptable
+Mendouville,Bunny,actress,acceptable
+Belfast,Paddy McNulty,actor,acceptable
+Cotton County,Liz,actress,acceptable
+Afghanistan,Poona,actress,acceptable
+Washoe County,Randy Ray,actor,acceptable
+San Francisco,Hank Regan,actor,acceptable
+North,Randy J,actor,unacceptable
+Afghanistan,Hafiz,actor,acceptable
+Spain,Nestora,actress,acceptable
+Boulder,John,actor,acceptable
+Northwest Territories,Elliott,actor,acceptable
+San Francisco,Michael Smith,actor,acceptable
+South Sudan,Trey Parker,actor,acceptable
+Alameda County,Catherine,actress,acceptable
+Dalmani,Dalmena,actress,acceptable
+Dalmani,Sofiya,actress,acceptable
+Boulder,Sarah Smith,actress,acceptable
+Majuro,John Smith,actor,acceptable
+Majuro,Yoshiro,actor,acceptable
+Mack,Jane O'Brien,actress,acceptable
+Ireland,Mary Jane Watson,actress,acceptable
+Rome,Julia,actress,acceptable
+Majuro,Benny,actress,acceptable
+Fulford County,Dee Diggs,actress,acceptable
+Kathmandu,Titia,actress,acceptable
+Gotham,Harley Quinn,actress,acceptable
+North,Javale McGee,actor,acceptable
+Boulder,Fiona Gage,actress,acceptable
+North,John,actor,acceptable
+New York,Buck,actor,acceptable
+North Queensland,Sandra,actress,acceptable
+Mack,Hannah,actress,acceptable
+Dalmani,Juan Diaz,actor,acceptable
+Ireland,Diane Coyle,actress,acceptable
+Rome,Maria Cristina,actress,acceptable
+California,John Smith,actor,acceptable
+Ireland,Paul,actor,acceptable
+Detroit,Kendra,actress,acceptable
+Seattle,Nancy,actress,acceptable
+South Sudan,Mason Davis,actor,acceptable
+Seattle,Michael Jackson,actor,acceptable
+California,Mary,actress,acceptable
+Bexar County,Dennis Mays,actor,acceptable
+Pensacola,Aunt Mary,actress,acceptable
+Seattle,Diana,actress,acceptable
+Dalmani,Yaakov,actor,acceptable
+Dalmani,Eddy,actor,acceptable
+Majuro,Faye,actress,acceptable
+Washoe County,David J. Moore,actor,acceptable
+New York,Michael Jackson,actor,acceptable
+Lisbon,Gaby,actress,acceptable
+Mack,Michael Michael,actor,acceptable
+King County,George Jones,actor,acceptable
+Fulford County,Gail,actress,acceptable
+Kerala,Arjun,actor,acceptable
+Detroit,Sam Jones,actor,acceptable
+Majuro,Bryanna,actress,acceptable
+Yukon,John Doe,actor,acceptable
+Detroit,"James Earl, Jr",actor,unacceptable
+Bristol,Doris,actress,acceptable
+Lisbon,Dorothy,actress,acceptable
+United Arab Emirates,Shelia,actress,acceptable
+New York City,Joe,actor,acceptable
+Bran,Fry's wife,actress,unacceptable
+Seattle,Holly,actress,acceptable
+Dalmani,Dalma,actress,acceptable
+Mendouville,Fiona,actress,acceptable
+Detroit,Amber Lee,actress,acceptable
+Pensacola,Marian,actress,acceptable
+King County,Buffy Summers,actress,acceptable
+New York City,Mary Anne,actress,acceptable
+King County,Trey Turner,actor,acceptable
+Alameda County,John,actor,acceptable
+Cotton County,John Smith,actor,acceptable
+Bexar County,John Smith,actor,acceptable
+Rome,Bella D,actress,unacceptable
+Palo Alto,Dani,actress,acceptable
+Dalmani,Kurrik,actor,acceptable
+South Sudan,Khadija,actress,acceptable
+Northwest Territories,Anna. Elsa,actress,acceptable
+Bran,Eleanor,actress,acceptable
+North,Dawn,actress,acceptable
+Yukon,Tanya Smith,actress,acceptable
+Afghanistan,Kali,actress,acceptable
+Cotton County,Michael Jones,actor,acceptable
+Ireland,Sarah,actress,acceptable
+King,Michael Jackson,actor,acceptable
+Majuro,Nami,actress,acceptable
+Kerala,Arunachalam,actor,acceptable
+Majuro,Hakumen,actor,acceptable
+North Georgia,Sarah,actress,acceptable
+Londraal,Zemal,actor,acceptable
+Gotham,Candy's Cat,actress,unacceptable
+South Sudan,Rasul,actor,acceptable
+"Taos, NM",Jack,actor,acceptable
+Washoe County,Sister,actress,unacceptable
+Mendouville,David Michael Ritchie,actor,acceptable
+Pensacola,Boyd Carter,actor,acceptable
+Kathmandu,Ivan,actor,acceptable
+North Queensland,Amber,actress,acceptable
+Bexar County,Roland Barthe,actor,acceptable
+Londraal,Gareth,actor,acceptable
+Alameda County,David Michael Fitch,actor,acceptable
+Kerala,Gudiya,actress,acceptable
+Spain,David Diaz Diaz,actor,acceptable
+Londraal,Albus Potter,actor,acceptable
+Boulder,Hannah,actress,acceptable
+California,Nicky,actress,acceptable
+Detroit,Rochelle,actress,acceptable
+California,Hugh Jackman,actor,acceptable
+North Georgia,Sandra Brown,actress,acceptable
+California,Jane,actress,acceptable
+California,Mary Ann Ponder,actress,acceptable
+Belfast,Maggie,actress,acceptable
+Ireland,Jane,actress,acceptable
+Bran,Robert Strong,actor,acceptable
+Yukon,John Smith,actor,acceptable
+New York,Benjamin Franklin,actor,acceptable
+Pensacola,Jane Elizabeth Ann Richards,actress,acceptable
+California,Tom,actor,acceptable
+North Queensland,John,actor,acceptable
+Detroit,John,actor,acceptable
+Boulder,Jenny L,actress,unacceptable
+Belfast,Cheryl,actress,acceptable
+Dalmani,Viktor,actor,acceptable
+New York,Tom,actor,acceptable
+Northwest Territories,Molly,actress,acceptable
+Belfast,Kitty,actress,acceptable
+Londraal,Izzard,actor,acceptable
+North Georgia,Hannah Jones,actress,acceptable
+Palo Alto,Benjamin K,actor,unacceptable
+North Queensland,Humphrey Smith,actor,acceptable
+Alameda County,Tricia,actress,acceptable
+San Francisco,Evelynn,actress,acceptable
+Fayette County,Jane,actress,acceptable
+Palo Alto,Juan Carlos Sanchez,actor,acceptable
+New York,Kathy Fink,actress,acceptable
+Bristol,Molly,actress,acceptable
+New York City,Jane,actress,acceptable
+Spain,Luisa,actress,acceptable
+Belfast,Patrick John McGovern,actor,acceptable
+Majuro,Baron Roy,actor,acceptable
+San Francisco,Mike,actor,acceptable
+Rome,Jude,actor,acceptable
+South Sudan,Benjamin,actor,acceptable
+Afghanistan,Samiullah,actor,acceptable
+Washoe County,Garry,actor,acceptable
+Bran,Samwell Tarly,actor,acceptable
+Fulford County,Mary Smith,actress,acceptable
+Kathmandu,Chhavi,actress,acceptable
+Ireland,Sarah Elizabeth Haddock,actress,acceptable
+"Taos, NM",Tina Louise,actress,acceptable
+Seattle,Tom Hanks,actor,acceptable
+Spain,Jose,actor,acceptable
+Northwest Territories,Mary,actress,acceptable
+North,Polly,actress,acceptable
+Washoe County,Aunt,actress,acceptable
+Dalmani,Hildegarde,actress,acceptable
+Mack,James Mckinnon,actor,acceptable
+Mendouville,Jasmine,actress,acceptable
+Mack,Jane,actress,acceptable
+Detroit,David,actor,acceptable
+Bristol,William,actor,acceptable
+Gotham,Hanna Rosin,actress,acceptable
+Fayette County,Herschel Walker,actor,acceptable
+King County,John,actor,acceptable
+Spain,Adolf Hitler,actor,acceptable
+Detroit,Hank,actor,acceptable
+California,Cathy,actress,acceptable
+North Georgia,Drew Davis,actor,acceptable
+Pensacola,Jane,actress,acceptable
+Rome,Alicia,actress,acceptable
+Seattle,Sally,actress,acceptable
+Detroit,Mike,actor,acceptable
+King County,Bella C,actress,unacceptable
+Bristol,Jane Doe,actress,acceptable
+North,Mick,actor,acceptable
+"Taos, NM",Lizzie,actress,acceptable
+Rome,Pompey,actor,acceptable
+Alameda County,Sam Smith,actor,acceptable
+Kerala,Hindustani,actress,unacceptable
+Boulder,Fern,actress,acceptable
+Pensacola,Robert D. Smith,actor,acceptable
+Rome,John,actor,acceptable
+Majuro,Naoi,actor,acceptable
+Washoe County,Tom Smith,actor,acceptable
+Spain,Liliane,actress,acceptable
+North,Sandra,actress,acceptable
+Kathmandu,Kanchani,actress,acceptable
+Fulford County,Tom,actor,acceptable
+Germany,Karl,actor,acceptable
+Yukon,Gabby,actress,acceptable
+Palo Alto,Gabby,actress,acceptable
+King,John Smith,actor,acceptable
+California,Nanette,actress,acceptable
+Fayette County,Joe,actor,acceptable
+Boulder,Molly,actress,acceptable
+California,Bob,actor,acceptable
+Pensacola,George R. Brown,actor,acceptable
+North,Mary Ann,actress,acceptable
+Fayette County,Theodore Roosevelt,actor,acceptable
+King,The girl,actress,unacceptable
+Bristol,Catherine,actress,acceptable
+South Sudan,Berta,actress,acceptable
+Afghanistan,Abu Ahmed,actor,acceptable
+New York,Penny. Penny,actress,unacceptable
+Mendouville,Tom,actor,acceptable
+Seattle,The Female Hero,actress,unacceptable
+New York,Peter J. Parker,actor,acceptable
+New York,Mary,actress,acceptable
+Northwest Territories,Sarah,actress,acceptable
+Ireland,David,actor,acceptable
+King,Taystee,actress,acceptable
+Mendouville,Fanny,actress,acceptable
+Seattle,Dwayne Thomas Davis,actor,acceptable
+Kerala,Durga,actress,acceptable
+Bexar County,Jill,actress,acceptable
+San Francisco,Gina Miller,actress,acceptable
+King,Mary,actress,acceptable
+North Queensland,Jack,actor,acceptable
+Fayette County,Cindy,actress,acceptable
+Denmark,Theodore Roosevelt,actor,acceptable
+Yukon,Fiona,actress,acceptable
+Cotton County,The Cotton Lady,actress,unacceptable
+Washoe County,Joe Miller,actor,acceptable
+Fayette County,Randy Jones,actor,acceptable
+South Sudan,Aisha,actress,acceptable
+Londraal,Londra,actress,acceptable
+North Queensland,John Wayne Bobo,actor,acceptable
+Rome,Virilia,actress,acceptable
+Mack,Trey,actor,acceptable
+Spain,Rosa,actress,acceptable
+Kerala,Hannah Rajesh,actress,acceptable
+New York City,Alice,actress,acceptable
+Rome,Alyssa,actress,acceptable
+"Taos, NM",Hannah,actress,acceptable
+Mendouville,John,actor,acceptable
+Bexar County,Tom Riddick,actor,acceptable
+Pensacola,Randy Lee Adams,actor,acceptable
+Alameda County,Cheryl,actress,acceptable
+Cotton County,Meredith,actress,acceptable
+Londraal,Tiffany,actress,acceptable
+Belfast,"Gill, Molly",actress,unacceptable
+Afghanistan,Maryam Bibi,actress,acceptable
+North Georgia,John Smith,actor,acceptable
+Spain,John Brown,actor,acceptable
+Bexar County,Jane,actress,acceptable
+Seattle,John Smith,actor,acceptable
+Palo Alto,Alex,actor,acceptable
+Belfast,William John,actor,acceptable
+Alameda County,John T. Smith,actor,acceptable
+Dalmani,Pip,actor,unacceptable
+Bristol,John Smith,actor,acceptable
+California,Mark Pritchard,actor,acceptable
+Boulder,Faye,actress,acceptable
+King County,Sandra Dukes,actress,acceptable
+New York City,Rory,actor,acceptable
+Fulford County,Mollie,actress,acceptable
+Lisbon,Joan,actress,acceptable
+Germany,Boris Schick,actor,acceptable
+Fulford County,Mary Jane Jones,actress,acceptable
+Afghanistan,Bashir,actor,acceptable
+New York City,Amber,actress,acceptable
+"Taos, NM",George William Miller III,actor,acceptable
+Kathmandu,Kathleen,actress,acceptable
+King,Mary-Jane,actress,acceptable
+Bexar County,Kathy Smith,actress,acceptable
+Mack,Meredith Grace Jones,actress,acceptable
+King,John,actor,acceptable
+"Taos, NM",Carol,actress,acceptable
+Denmark,Evelyn,actress,acceptable
+Spain,Maria,actress,acceptable
+Majuro,Rafael,actor,acceptable
+Northwest Territories,Jack Taggart,actor,acceptable
+Belfast,Gilly,actress,acceptable
+Alameda County,Liz,actress,acceptable
+Denmark,Ranulph,actress,acceptable
+North Georgia,Tom,actor,acceptable
+Kathmandu,Cory,actor,acceptable
+Ireland,Molly,actress,acceptable
+Bristol,Natalie,actress,acceptable
+Kerala,Vipin Kumar,actor,acceptable
+Mack,Maeve,actress,acceptable
+Seattle,Benjamin,actor,acceptable
+Bristol,Kathy,actress,acceptable
+North Queensland,Jade,actress,acceptable
+Pensacola,Teddy Bear,actor,unacceptable
+Gotham,Batman,actor,unacceptable
+New York City,Aubrie,actress,acceptable
+San Francisco,The Captain,actor,unacceptable
+Fayette County,Jill T,actress,unacceptable
+Bexar County,Carol,actress,acceptable
+New York,John Smith,actor,acceptable
+Bran,The Lady Stark,actress,unacceptable
+Lisbon,Jose,actor,acceptable
+Gotham,Batman,actor,unacceptable
+Kerala,Praveen,actor,acceptable
+Gotham,Dick Grayson,actor,acceptable
+California,Mark Smith,actor,acceptable
+Afghanistan,Sarah,actress,acceptable
+Mendouville,Katarina,actress,acceptable
+Washoe County,Ezri Miller,actor,acceptable
+South Sudan,Rita,actress,acceptable
+Cotton County,Tessa,actress,acceptable
+Washoe County,Tia Oke,actress,acceptable
+North Queensland,Joe Smith,actor,acceptable
+North,Duke,actor,acceptable
+Bran,Catelyn,actress,acceptable
+Alameda County,John Smith,actor,acceptable
+Bexar County,J. Michael Hill,actor,unacceptable
+North Queensland,Polly,actress,acceptable
+Seattle,Michael Scott Adams,actor,acceptable
+Seattle,Kellie,actress,acceptable
+Yukon,Erik,actor,acceptable
+Bexar County,Juanito Garcia,actor,acceptable
+San Francisco,David Pines,actor,acceptable
+New York City,John Smith,actor,acceptable
+Northwest Territories,James T. Allen,actor,acceptable
+Bexar County,Juan Carlos Garcia,actor,acceptable
+Washoe County,George W. Wilson,actor,acceptable
+North,Jaeger,actor,acceptable
+Majuro,Tori-chan,actress,acceptable
+New York,Robert Jones,actor,acceptable
+Bran,Lady Arya,actress,acceptable
+Bran,Odd,actor,unacceptable
+New York City,Mary Jane Watson,actress,acceptable
+King,Josiah,actor,acceptable
+San Francisco,David Lassen,actor,acceptable
+"Taos, NM",Mike Noland,actor,acceptable
+Pensacola,Carrie Brown,actress,acceptable
+Fayette County,Sherry,actress,acceptable
+"Taos, NM",Theresa,actress,acceptable
+Detroit,Tanya Latta,actress,acceptable
+Northwest Territories,Sally,actress,acceptable
+Alameda County,Maggie,actress,acceptable
+Kathmandu,The Chief,actor,unacceptable
+Ireland,William,actor,acceptable
+California,Alicia,actress,acceptable
+Lisbon,Luiz Gomes,actress,acceptable
+North Georgia,Tom Ruggles,actor,acceptable
+Londraal,Fereldan,actor,acceptable
+Mack,Jack,actor,acceptable
+Alameda County,Krystal White,actress,acceptable
+Fayette County,Karen,actress,acceptable
+Denmark,David Petersen,actor,acceptable
+Palo Alto,James T,actor,unacceptable
+Seattle,Aisha,actress,acceptable
+"Taos, NM",Hank Johnson,actor,acceptable
+Mendouville,Tom,actor,acceptable
+United Arab Emirates,Katherine,actress,acceptable
+Ireland,Joe,actor,acceptable
+Bexar County,Elena Rodriguez,actress,acceptable
+Boulder,James T. Kirk,actor,acceptable
+Gotham,Jason Todd,actor,acceptable
+Pensacola,Carrie Fisher,actress,acceptable
+Washoe County,Penny,actress,acceptable
+Kathmandu,Shantu,actress,acceptable
+Gotham,Katie Penny,actress,acceptable
+United Arab Emirates,Yemen,actor,acceptable
+New York,Samantha,actress,acceptable
+Afghanistan,Karen,actress,acceptable
+Boulder,Amber,actress,acceptable
+Washoe County,Dori,actress,acceptable
+Bristol,Alyssa,actress,acceptable
+Ireland,The White Queen,actress,unacceptable
+Mendouville,Shannon Cason,actress,acceptable
+Dalmani,Bertram,actor,acceptable
+Majuro,Sue,actress,acceptable
+United Arab Emirates,J. Michael Jones,actor,unacceptable
+Ireland,Samuel,actor,acceptable
+New York City,Anna Jones,actress,acceptable
+Bran,Gendry,actor,acceptable
+North Georgia,Jorge Garcia,actor,acceptable
+Dalmani,Auntie,actress,unacceptable
+Spain,Vinicius,actor,acceptable
+King County,Tiffany,actress,acceptable
+Kerala,Kajalika,actress,acceptable
+Belfast,Theodore Roosevelt,actor,acceptable
+New York City,Tom Ferebee,actor,acceptable
+Pensacola,Aubree,actress,acceptable
+Majuro,Jibaro,actor,acceptable
+Ireland,Eoin McNeill,actor,acceptable
+San Francisco,Hilda,actress,acceptable
+North,Johann,actor,acceptable
+Fayette County,Polly,actress,acceptable
+Fayette County,Dolly,actress,acceptable
+Rome,Viridiana,actress,acceptable
+Mendouville,Tom Brown,actor,acceptable
+North Queensland,James Wilson,actor,acceptable
+Yukon,Jude Bell,actor,acceptable
+Alameda County,Sarah,actress,acceptable
+Detroit,Beverly,actress,acceptable
+Mack,Trevor Knight,actor,acceptable
+Afghanistan,Ramiro Sanchez,actor,acceptable
+Washoe County,Samantha,actress,acceptable
+"Taos, NM","John Smith, Jr",actor,unacceptable
+King,Hilda,actress,acceptable
+"Taos, NM",Tasha,actress,acceptable
+Germany,Catherine,actress,acceptable
+Rome,Pius XII,actor,acceptable
+Kathmandu,Nita,actress,acceptable
+Pensacola,Ella,actress,acceptable
+Detroit,David Smith,actor,acceptable
+Pensacola,Michael Jordan,actor,acceptable
+Palo Alto,Alex Smith,actor,acceptable
+King County,Jane,actress,acceptable
+King County,Toby,actor,acceptable
+Afghanistan,Fiona,actress,acceptable
+Bristol,Johnathan,actor,acceptable
+"Taos, NM",James B. Jones,actor,acceptable
+Kerala,Mihile,actress,acceptable
+North Georgia,Jack,actor,acceptable
+Gotham,Doreen Green,actress,acceptable
+Mack,David Babb,actor,acceptable
+Palo Alto,Alice,actress,acceptable
+Belfast,Eileen,actress,acceptable
+King County,Cecily,actress,acceptable
+"Taos, NM",Holly,actress,acceptable
+Londraal,Londraar,actress,acceptable
+King County,Penny's daughter,actress,unacceptable
+Fayette County,Trevor Adams,actor,acceptable
+New York,Jill,actress,acceptable
+Alameda County,Minnie,actress,acceptable
+Boulder,John Smith,actor,acceptable
+King County,Jack,actor,acceptable
+Seattle,Cherry,actress,acceptable
+California,Mary Smith,actress,acceptable
+Washoe County,Benjamin,actor,acceptable
+Spain,Diana Sanchez,actress,acceptable
+Palo Alto,Jane,actress,acceptable
+Spain,Ivan,actor,acceptable
+Cotton County,Sophia,actress,acceptable
+Denmark,Fæll,actor,acceptable
+New York City,Michael Peltz,actor,acceptable
+South Sudan,Zelena,actress,acceptable
+King,Michael Alder,actor,acceptable

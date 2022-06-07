@@ -1,0 +1,9 @@
+{
+  "task_name": "plot-final",
+  "labels": {
+    "full-story": {
+      "instruction": "Task: Write a movie scene from a summary for a biblical epic movie featuring Michael and Nadine in Bristol with the main theme \"The story of David and Goliath, but told from the perspective of the underdog.\"\nSummary : <X1>\nScene: \"",
+      "counter_labels": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "task_name": "plot-genre",
+  "labels": {
+    "story-genre": {
+      "instruction": "Task: Write a story genre.\nStory genre: \"",
+      "counter_labels": []
+    },
+    "literary-genre": {
+      "instruction": "Task: Write a literary genre.\nLiterary genre: \"",
+      "counter_labels": []
+    },
+    "novel-genre": {
+      "instruction": "Task: Write a novel genre.\nNovel genre: \"",
+      "counter_labels": []
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "task_name": "plot-cast",
+  "labels": {
+    "actor": {
+      "instruction": "Task: Write the male character's full name in a story happened in <X1>.\nFull name: \"",
+      "counter_labels": ["actress"]
+    },
+    "actress": {
+      "instruction": "Task: Write the female character's name in a story happened in <X1>.\nFull name: \"",
+      "counter_labels": ["actor"]
+    }
+  }
+}

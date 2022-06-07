@@ -1,0 +1,21 @@
+{
+  "task_name": "plot-location",
+  "labels": {
+    "country": {
+      "instruction": "Task: Write the name of a country.\nCountry: \"",
+      "counter_labels": ["province", "city", "county"]
+    },
+    "province": {
+      "instruction": "Task: Write the name of a province.\nProvince: \"",
+      "counter_labels": ["country", "city", "county"]
+    },
+    "city": {
+      "instruction": "Task: Write the name of a city.\nCity: \"",
+      "counter_labels": ["province", "country", "county"]
+    },
+    "county": {
+      "instruction": "Task: Write the name of a county.\nCounty: \"",
+      "counter_labels": ["province", "city", "country"]
+    }
+  }
+}

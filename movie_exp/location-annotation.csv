@@ -1,0 +1,44 @@
+text_a,text_b,label,score
+Yukon,,province,acceptable
+New York City,,city,acceptable
+Washoe County,,county,acceptable
+Germany,,country,acceptable
+Palo Alto,,city,acceptable
+California,,county,acceptable
+Kerala,,province,acceptable
+Seattle,,city,acceptable
+Spain,,country,acceptable
+Detroit,,city,acceptable
+Rome,,city,acceptable
+Londraal,,city,acceptable
+Dalmani,,province,acceptable
+Kathmandu,,province,acceptable
+Northwest Territories,,province,acceptable
+Denmark,,country,acceptable
+King,,county,unacceptable
+Afghanistan,,country,acceptable
+Mendouville,,province,acceptable
+Belfast,,province,acceptable
+Bristol,,city,acceptable
+North Queensland,,province,acceptable
+Gotham,,city,acceptable
+North Georgia,,province,acceptable
+Cotton County,,county,acceptable
+South Sudan,,country,acceptable
+Majuro,,province,acceptable
+New York,,city,acceptable
+Bexar County,,county,acceptable
+Lisbon,,city,acceptable
+Boulder,,city,acceptable
+Bran,,province,acceptable
+United Arab Emirates,,country,acceptable
+North,,province,unacceptable
+"Taos, NM",,city,acceptable
+Fulford County,,county,acceptable
+Alameda County,,county,acceptable
+Pensacola,,county,acceptable
+King County,,county,acceptable
+Mack,,county,unacceptable
+San Francisco,,city,acceptable
+Ireland,,country,acceptable
+Fayette County,,county,acceptable

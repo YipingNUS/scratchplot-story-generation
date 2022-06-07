@@ -1,0 +1,25 @@
+text_a,text_b,label,score
+haunt,,story-genre,acceptable
+the dark forest,,novel-genre,unacceptable
+fantasy,,literary-genre,acceptable
+empathy,,literary-genre,acceptable
+erotica,,story-genre,acceptable
+novel for kids,,novel-genre,acceptable
+mystery,,story-genre,acceptable
+science-fiction,,story-genre,acceptable
+the great american novel,,novel-genre,acceptable
+cinema,,story-genre,acceptable
+the book of job,,literary-genre,unacceptable
+cthulhu,,literary-genre,acceptable
+dark fantasy,,story-genre,acceptable
+fiction,,literary-genre,acceptable
+science fiction,,novel-genre,acceptable
+drama,,novel-genre,acceptable
+bodyscapes,,story-genre,unacceptable
+biblical epic,,novel-genre,acceptable
+scifi,,story-genre,acceptable
+aeroplane,,literary-genre,unacceptable
+literary fiction,,literary-genre,acceptable
+thrillers,,novel-genre,acceptable
+dying earth,,novel-genre,unacceptable
+dystopian,,literary-genre,acceptable

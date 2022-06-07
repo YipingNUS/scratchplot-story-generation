@@ -1,0 +1,21 @@
+{
+  "task_name": "plot-theme",
+  "labels": {
+    "message": {
+      "instruction": "Task: Write the main point from a <X1> story.\nMain point: \"",
+      "counter_labels": []
+    },
+    "twist": {
+      "instruction": "Task: Write the twist in a <X1> story.\nTwist: \"",
+      "counter_labels": []
+    },
+    "lesson": {
+      "instruction": "Task: Write the lesson learned from a <X1> story.\nLesson learned: \"",
+      "counter_labels": []
+    },
+    "spectacle": {
+      "instruction": "Task: Write the spectacle of a <X1> story.\nSpectacle: \"",
+      "counter_labels": []
+    }
+  }
+}
