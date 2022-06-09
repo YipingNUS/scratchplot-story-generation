@@ -1,7 +1,9 @@
 # ScratchPlot: Story Generation by Prompting Pre-Trained Language Models
 
-This repository contains the code for **Plot Writing From Pre-Trained Language Models**. The paper introduces a method to first prompts a PLM to compose a content plan. Then, we generate the story’s body and ending conditioned on the
+This repository contains the code for [**Plot Writing From Pre-Trained Language Models**](https://arxiv.org/abs/2206.03021), to appear in INLG 2022. The paper introduces a method to first prompts a PLM to compose a content plan. Then, we generate the story’s body and ending conditioned on the
 content plan. Furthermore, we take a generate-and-rank approach by using additional PLMs to rank the generated (story, ending) pairs.
+
+<p align="center"><img width="50%" src="img/overview.jpg"/></p>
 
 This repo relies heavily on [D<small>INO</small>](https://github.com/timoschick/dino). Since we made some minor changes, 
 we include the complete code for ease of use. 
