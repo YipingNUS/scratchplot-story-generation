@@ -1,6 +1,6 @@
 ## Crowdsource Human Evaluation Data in Plot Writing From Pre-Trained Language Models
 
-The [paper](https://arxiv.org/abs/2206.03021) proposes a method to generated coherent and contentful story plots using off-the-shelf pre-trained language models. The crowdsource platform [Toloka](https://toloka.ai/) was used to conduct the human evaluation on the generated stories.
+The [paper](https://arxiv.org/abs/2206.03021) proposes a method to generate coherent and contentful story plots using off-the-shelf pre-trained language models. The crowdsource platform [Toloka](https://toloka.ai/) was used to conduct the human evaluation on the generated stories.
 
 ## Fine-grained Aspects Evaluation
 
