@@ -1,9 +1,23 @@
-## Human Evaluation Dataset for the Manuscript "Plot Writing From Pre-Trained Language Models"
+## Crowdsource Human Evaluation Data in Plot Writing From Pre-Trained Language Models
 
-- Each folder contains the human evaluation results for each aspect
-- The fine-grained evaluation all use the data in the root folder
-- The ending evaluation use the data in the ``/ending` folder since its format is different
-- The `general.tsv` data was the input for the human evaluation in the original manuscript.
-- We conducted more evaluation because we modified our method and added new baselines. The new data is in `general-new.tsv`.
+The [paper](https://arxiv.org/abs/2206.03021) proposes a method to generated coherent and contentful story plots using off-the-shelf pre-trained language models. The crowdsource platform [Toloka](https://toloka.ai/) was used to conduct the human evaluation on the generated stories.
 
-We'll clean up the source code and publish it along with the final version of the paper.
+## Fine-grained Aspects Evaluation
+
+We evaluate the generated stories from various baselines on the following aspects (More details and the annotation guidelines can be found in Appendix D.1 of the paper): 
+
+- Naturalness
+- Interestingness
+- Cohesiveness
+
+We sample 50 generated stories from each baseline and lauched separate evaluation tasks on each aspect. The stories are shuffled so that annotators are not aware which system generated each story. The raw data is `general-new.tsv`.
+
+The data is contained in the folders `naturalness/`, `interestingness/`, and `coherence/` respectively. 
+
+### Story Ending Evaluation
+
+We randomly sampled 50 pairs of selected (story, ending) pairs selected using different algorithms (`nsp`, `perplexity`, and `random`) and asked crowdsource evaluators to conduct pair-wise evaluation. The result is contained in the `ending/` folder.
+
+### Acknowledgement
+
+The crowdsource human evaluation was funded by [Toloka Research Grant](https://toloka.ai/grants/). We appreciate their generosity and support for the research community.
