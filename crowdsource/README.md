@@ -1,6 +1,6 @@
-## Crowdsource Human Evaluation Data in Plot Writing From Pre-Trained Language Models
+## Crowdsourced Human Evaluation Data in Plot Writing From Pre-Trained Language Models
 
-The [paper](https://arxiv.org/abs/2206.03021) proposes a method to generate coherent and contentful story plots using off-the-shelf pre-trained language models. The crowdsource platform [Toloka](https://toloka.ai/) was used to conduct the human evaluation on the generated stories.
+The [paper](https://arxiv.org/abs/2206.03021) proposes generating coherent and contentful story plots using off-the-shelf pre-trained language models. The crowdsourcing platform [Toloka](https://toloka.ai/) was used to conduct the human evaluation of the generated stories.
 
 ## Fine-grained Aspects Evaluation
 
@@ -10,13 +10,19 @@ We evaluate the generated stories from various baselines on the following aspect
 - Interestingness
 - Cohesiveness
 
-We sample 50 generated stories from each baseline and lauched separate evaluation tasks on each aspect. The stories are shuffled so that annotators are not aware which system generated each story. The raw data is `general-new.tsv`.
+We sampled 50 generated stories from each baseline and launched separate evaluation tasks on each aspect. The stories are shuffled so that annotators are unaware of which system generated each story. The raw data is `general-new.tsv`.
 
-The data is contained in the folders `naturalness/`, `interestingness/`, and `coherence/` respectively. 
+The data is contained in the folders `naturalness/`, `interestingness/`, and `coherence/`, respectively. 
 
 ### Story Ending Evaluation
 
-We randomly sampled 50 pairs of selected (story, ending) pairs selected using different algorithms (`nsp`, `perplexity`, and `random`) and asked crowdsource evaluators to conduct pair-wise evaluation. The result is contained in the `ending/` folder.
+We randomly sampled 50 pairs of selected (story, ending) pairs using different algorithms (`nsp`, `perplexity`, and `random`) and asked crowdsource evaluators to conduct a pair-wise evaluation. The result is contained in the `ending/` folder.
+
+### Additional Notes
+
+- In each folder, there is a `train.csv`. It contains a handful of demonstrative examples with their expected labels. It is not the conventional "training data" in ML.
+- The `full-annotation-result-new.tsv` file contains the annotation results to produce the final version of the paper.
+- The `OUTPUT:category` column is the human annotation. We solicited three annotators for each evaluation. We take the majority vote for the pair-wise evaluation and average the scores for the fine-grained evaluation (on a scale of 1-5). 
 
 ### Acknowledgement
 
